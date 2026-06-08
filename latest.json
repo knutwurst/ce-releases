@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.4.5",
-  "blob": "app-v0.4.5.bin",
-  "iv": "034e5503824abcad14b3f3e31dec96f6",
-  "sha256": "43aa419f774a79f98cf56028a2e9048e8bd3198c97eca95b6ae8f44029dc1e56",
-  "notes": "Test the one-shot release script"
+  "versionCode": 27,
+  "versionName": "0.4.6",
+  "blob": "app-v0.4.6.bin",
+  "iv": "fc6d87fe0ed9fcd979b4ebd53176255c",
+  "sha256": "eefbcf5fe02a61155ecb4a98ee31ba2ab3006dfd19bcba5391e599bd171804ba",
+  "notes": "Release-signed build; clearer accessibility steps"
 }
