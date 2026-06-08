@@ -2,7 +2,7 @@
   "versionCode": 24,
   "versionName": "0.4.3",
   "blob": "app-v0.4.3.bin",
-  "iv": "9facf865dee34a5d2f5df6e575571ae7",
+  "iv": "9369d6707071e43f72f231ee191ab436",
   "sha256": "9fc6609917c6ad72c8424d0bc74967826493d12da3ab4e35d9db99f8ebceeb54",
-  "notes": "Self-Update + Farb-Fill im SVG"
+  "notes": "Self-update + SVG fill colours"
 }
