@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.4.8",
-  "blob": "app-v0.4.8.bin",
-  "iv": "08596ee66b2377ed61695812af067172",
-  "sha256": "60e8b4f894a2978ec3208c16557f55f66609ead3f8c6da21c43978c89ed07c60",
-  "notes": "Key-rotation signing: updates over older debug-signed installs without reinstall"
+  "versionCode": 30,
+  "versionName": "0.4.9",
+  "blob": "app-v0.4.9.bin",
+  "iv": "b34fafe118acf0949f6334050a67b126",
+  "sha256": "19ab78812b2e03da1721db936445be73531ee277bb85a7d84624e0225d988fa7",
+  "notes": "Fixes 14 self-update/install issues: off-main-thread APK copy, runtime storage permission on old Android, leak-free installer sessions, no orphaned Downloads files, inline bulk-export progress, reliable status messages, sounder key-rotation signing. Adds unit tests."
 }
