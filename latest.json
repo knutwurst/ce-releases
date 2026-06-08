@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.4.6",
-  "blob": "app-v0.4.6.bin",
-  "iv": "fc6d87fe0ed9fcd979b4ebd53176255c",
-  "sha256": "eefbcf5fe02a61155ecb4a98ee31ba2ab3006dfd19bcba5391e599bd171804ba",
-  "notes": "Release-signed build; clearer accessibility steps"
+  "versionCode": 28,
+  "versionName": "0.4.7",
+  "blob": "app-v0.4.7.bin",
+  "iv": "dccd6c3ed9e13e02240751911212b6e1",
+  "sha256": "eac03e444bf6617862b5cbd58d17cdfec1a989fbfd442ac4ac3207ea82a517c7",
+  "notes": "Guided uninstall+reinstall fallback for signature changes; PackageInstaller session install"
 }
