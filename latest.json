@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.4.7",
-  "blob": "app-v0.4.7.bin",
-  "iv": "dccd6c3ed9e13e02240751911212b6e1",
-  "sha256": "eac03e444bf6617862b5cbd58d17cdfec1a989fbfd442ac4ac3207ea82a517c7",
-  "notes": "Guided uninstall+reinstall fallback for signature changes; PackageInstaller session install"
+  "versionCode": 29,
+  "versionName": "0.4.8",
+  "blob": "app-v0.4.8.bin",
+  "iv": "08596ee66b2377ed61695812af067172",
+  "sha256": "60e8b4f894a2978ec3208c16557f55f66609ead3f8c6da21c43978c89ed07c60",
+  "notes": "Key-rotation signing: updates over older debug-signed installs without reinstall"
 }
