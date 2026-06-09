@@ -1,9 +1,9 @@
 {
-  "versionCode": 32,
-  "versionName": "0.4.11",
-  "blob": "app-v0.4.11.bin",
-  "iv": "5e170ac6d2794ee9d19645c72ef78a44",
-  "sha256": "f6c960c75e23db24bd21fc9abf32bdd5ddd57efc73d4b1c15a04b818da121988",
-  "notes": "License now viewable in the About screen (tap 'Lizenz anzeigen'). Patch release.",
-  "blobUrl": "https://github.com/knutwurst/ce-releases/releases/download/v0.4.11/app-v0.4.11.bin"
+  "versionCode": 33,
+  "versionName": "0.4.12",
+  "blob": "app-v0.4.12.bin",
+  "iv": "f84ecce1e76cf96d8efd0c2fd2115fbd",
+  "sha256": "1269d9f85831399c12952c8fed0677fda1923b825d1046cd41ebc9607b4e2524",
+  "notes": "License dialog now scrolls without closing itself.",
+  "blobUrl": "https://github.com/knutwurst/ce-releases/releases/download/v0.4.12/app-v0.4.12.bin"
 }
