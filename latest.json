@@ -1,8 +1,9 @@
 {
-  "versionCode": 30,
-  "versionName": "0.4.9",
-  "blob": "app-v0.4.9.bin",
-  "iv": "b34fafe118acf0949f6334050a67b126",
-  "sha256": "19ab78812b2e03da1721db936445be73531ee277bb85a7d84624e0225d988fa7",
-  "notes": "Fixes 14 self-update/install issues: off-main-thread APK copy, runtime storage permission on old Android, leak-free installer sessions, no orphaned Downloads files, inline bulk-export progress, reliable status messages, sounder key-rotation signing. Adds unit tests."
+  "versionCode": 31,
+  "versionName": "0.4.10",
+  "blob": "app-v0.4.10.bin",
+  "iv": "e5bf274e5183f01564c7dec0d128b120",
+  "sha256": "adb55248b52a709feea79926621274f23c48d25ed365adaf6ba6b18b267bbbee",
+  "notes": "Self-Update lädt den Blob jetzt aus einem GitHub-Release-Asset (mit raw-Fallback); das Releases-Repo wächst nicht mehr mit jeder Version.",
+  "blobUrl": "https://github.com/knutwurst/ce-releases/releases/download/v0.4.10/app-v0.4.10.bin"
 }
