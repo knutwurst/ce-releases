@@ -1,9 +1,9 @@
 {
-  "versionCode": 33,
-  "versionName": "0.4.12",
-  "blob": "app-v0.4.12.bin",
-  "iv": "f84ecce1e76cf96d8efd0c2fd2115fbd",
-  "sha256": "1269d9f85831399c12952c8fed0677fda1923b825d1046cd41ebc9607b4e2524",
-  "notes": "License dialog now scrolls without closing itself.",
-  "blobUrl": "https://github.com/knutwurst/ce-releases/releases/download/v0.4.12/app-v0.4.12.bin"
+  "versionCode": 34,
+  "versionName": "0.4.13",
+  "blob": "app-v0.4.13.bin",
+  "iv": "bbb4d928330d73cadd15b22d09a39584",
+  "sha256": "3bcf96f3137eb736d44e1514135a04545b72455d9e9569b3ee93626e3c808da9",
+  "notes": "License is now its own scrollable screen — scrolling (incl. to the bottom) no longer closes it.",
+  "blobUrl": "https://github.com/knutwurst/ce-releases/releases/download/v0.4.13/app-v0.4.13.bin"
 }
