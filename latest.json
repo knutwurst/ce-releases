@@ -1,9 +1,9 @@
 {
-  "versionCode": 34,
-  "versionName": "0.4.13",
-  "blob": "app-v0.4.13.bin",
-  "iv": "bbb4d928330d73cadd15b22d09a39584",
-  "sha256": "3bcf96f3137eb736d44e1514135a04545b72455d9e9569b3ee93626e3c808da9",
-  "notes": "License is now its own scrollable screen — scrolling (incl. to the bottom) no longer closes it.",
-  "blobUrl": "https://github.com/knutwurst/ce-releases/releases/download/v0.4.13/app-v0.4.13.bin"
+  "versionCode": 35,
+  "versionName": "0.4.14",
+  "blob": "app-v0.4.14.bin",
+  "iv": "5a4052ed76aafa12da22204b18c153e6",
+  "sha256": "9328a3516836f5db1ab2e29b1ab35aee7747120ebae8cfd645642a102dd44156",
+  "notes": "Auto-dismiss now fires ONLY on the Design Space device-setup screen — it no longer closes normal menus (e.g. sticker/label sheets).",
+  "blobUrl": "https://github.com/knutwurst/ce-releases/releases/download/v0.4.14/app-v0.4.14.bin"
 }
